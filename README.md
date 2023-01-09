@@ -27,7 +27,7 @@ After applying these filters, I have collated some 28 cheat sheets on machine le
 - [Mathematics](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/Mathematics)
 - [Matlab](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/Matlab)
 - [NLP](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/NLP)
-- [Numpy](Numpy/README.md)
+- [Numpy](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/Numpy)
 - [Ordinary Differential Equations](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/Ordinary%20Differential%20Equations)
 - [Pandas](Pandas/README.md)
 - [Probability](Probability/README.md)
