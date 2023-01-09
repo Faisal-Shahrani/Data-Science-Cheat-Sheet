@@ -8,7 +8,7 @@ After applying these filters, I have collated some 28 cheat sheets on machine le
 
 ## Table Of Content : 
 
-- [Artificial Intelligence](Artificial%20Intelligence/README.md)
+- [Artificial Intelligence](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/Artificial%20Intelligence)
 - [Big Data](Big%20Data/README.md)
 - [Data Engineering](Data%20Engineering/README.md)
 - [Data Mining](Data%20Mining/README.md)
@@ -35,3 +35,4 @@ After applying these filters, I have collated some 28 cheat sheets on machine le
 - [Scala](Scala/README.md)
 - [SQL](SQL/README.md)
 - [Statistics](Statistics/README.md)
+
