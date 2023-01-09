@@ -37,6 +37,6 @@ After applying these filters, I have collated some 28 cheat sheets on machine le
 - [Statistics](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/Statistics)
 
 
-Hope it can be usefull , Do not foget to add me on [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Faisal_serhani) 
+Hope it can be usefull , add me on [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Faisal_serhani) 
 
 # Thank you 💓
