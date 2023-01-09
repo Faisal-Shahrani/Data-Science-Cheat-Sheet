@@ -29,10 +29,12 @@ After applying these filters, I have collated some 28 cheat sheets on machine le
 - [NLP](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/NLP)
 - [Numpy](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/Numpy)
 - [Ordinary Differential Equations](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/Ordinary%20Differential%20Equations)
-- [Pandas](Pandas/README.md)
-- [Probability](Probability/README.md)
-- [Python](Python/README.md)
-- [Scala](Scala/README.md)
-- [SQL](SQL/README.md)
-- [Statistics](Statistics/README.md)
+- [Pandas](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/Pandas)
+- [Probability](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/Probability)
+- [Python](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/Python)
+- [Scala](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/Scala)
+- [SQL](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/SQL)
+- [Statistics](https://github.com/Faisal-Shahrani/Data-Science-Cheat-Sheet/tree/main/Statistics)
 
+
+Hope it can be usefull , Do not foget to add me on <i class="fa fa-twitter" aria-hidden="true"></i>
